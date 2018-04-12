@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Cube.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Camera.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Shader.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Horse.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\World.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Complex.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Axis.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\VaoBinder.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\TextureBinder.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\light.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Object.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Part.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Cube.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Camera.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Shader.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Horse.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\World.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Complex.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Axis.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\VaoBinder.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\TextureBinder.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\light.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Object.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Part.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{afb30381-c313-41a9-9c55-9e2972577c2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{51b82b97-0376-45a3-958b-b768143852b8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\vertex.shader">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="Shaders\fragment.shader">
+      <Filter>Source</Filter>
+    </None>
+  </ItemGroup>
+</Project>

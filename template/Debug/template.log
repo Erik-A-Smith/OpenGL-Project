@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+  stb_image.cpp
+  Main.cpp
+e:\git\repo\assignment-final-40002747\template\main.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(129): warning C4018: '<': signed/unsigned mismatch
+e:\git\repo\assignment-final-40002747\template\main.cpp(198): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(244): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(278): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(341): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(405): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(406): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(407): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(408): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(412): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(413): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(417): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(418): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(424): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\main.cpp(530): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  World.cpp
+e:\git\repo\assignment-final-40002747\template\classes\world.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\git\repo\assignment-final-40002747\template\classes\world.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  VaoBinder.cpp
+  TextureBinder.cpp
+  Shader.cpp
+  Part.cpp
+  light.cpp
+  Horse.cpp
+e:\git\repo\assignment-final-40002747\template\classes\horse.cpp(177): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Object.cpp
+  Cube.cpp
+  Complex.cpp
+  Camera.cpp
+  Axis.cpp
+  Generating Code...
+e:\git\repo\assignment-final-40002747\template\classes\texturebinder.cpp(51): warning C4715: 'TextureBinder::textureByName': not all control paths return a value
+e:\git\repo\assignment-final-40002747\template\main.cpp(526): warning C4715: 'searchByName': not all control paths return a value
+  template.vcxproj -> E:\Git\Repo\Assignment-Final-40002747\Debug\template.exe
+  0 File(s) copied
+  0 File(s) copied
